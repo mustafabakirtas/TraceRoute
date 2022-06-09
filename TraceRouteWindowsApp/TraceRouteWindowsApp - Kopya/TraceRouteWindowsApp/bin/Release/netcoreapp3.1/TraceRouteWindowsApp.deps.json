@@ -1,0 +1,81 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TraceRouteWindowsApp/1.0.0": {
+        "dependencies": {
+          "PcapDotNet.Base": "1.0.4.25027",
+          "PcapDotNet.Core": "1.0.4.25149",
+          "PcapDotNet.Core.Extensions": "1.0.4.25151",
+          "PcapDotNet.Packets": "1.0.4.25028"
+        },
+        "runtime": {
+          "TraceRouteWindowsApp.dll": {}
+        }
+      },
+      "PcapDotNet.Base/1.0.4.25027": {
+        "runtime": {
+          "PcapDotNet.Base.dll": {
+            "assemblyVersion": "1.0.4.25027",
+            "fileVersion": "1.0.4.0"
+          }
+        }
+      },
+      "PcapDotNet.Core/1.0.4.25149": {
+        "runtime": {
+          "PcapDotNet.Core.dll": {
+            "assemblyVersion": "1.0.4.25149",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "PcapDotNet.Core.Extensions/1.0.4.25151": {
+        "runtime": {
+          "PcapDotNet.Core.Extensions.dll": {
+            "assemblyVersion": "1.0.4.25151",
+            "fileVersion": "1.0.4.0"
+          }
+        }
+      },
+      "PcapDotNet.Packets/1.0.4.25028": {
+        "runtime": {
+          "PcapDotNet.Packets.dll": {
+            "assemblyVersion": "1.0.4.25028",
+            "fileVersion": "1.0.4.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TraceRouteWindowsApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PcapDotNet.Base/1.0.4.25027": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PcapDotNet.Core/1.0.4.25149": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PcapDotNet.Core.Extensions/1.0.4.25151": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PcapDotNet.Packets/1.0.4.25028": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
